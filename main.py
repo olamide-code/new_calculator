@@ -34,7 +34,7 @@ while running:
             result = number1/number2
             print(f"the resukt of {number1}/{number2} is {result}")
         
-        elif operator == 'tan':
+        elif operator == 'sin':
             angle = float(input("Enter your angle"))
             result = math.sin(angle)
             print(f"The result of sin0 is: {result}")
